@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\Pitagora\Pitagora\bin\Debug\Pitagora.exe.config
+C:\Users\Ucenik\source\repos\Pitagora\Pitagora\bin\Debug\Pitagora.exe
+C:\Users\Ucenik\source\repos\Pitagora\Pitagora\bin\Debug\Pitagora.pdb
+C:\Users\Ucenik\source\repos\Pitagora\Pitagora\obj\Debug\Pitagora.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Pitagora\Pitagora\obj\Debug\Pitagora.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Pitagora\Pitagora\obj\Debug\Pitagora.exe
+C:\Users\Ucenik\source\repos\Pitagora\Pitagora\obj\Debug\Pitagora.pdb
